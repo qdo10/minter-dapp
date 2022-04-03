@@ -1,5 +1,5 @@
-const contractAddress = "0x624Cb2E7C2727Df88b40412acBdFfa448806c361"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x81ef3821e5817A312c16a69a636e0fe2919Ca857"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Urban Frenchies NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
