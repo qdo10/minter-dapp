@@ -7,8 +7,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "hello";
-const description = "Remember to replace this description";
+const namePrefix = "Urban Frenchie";
+const description = "Urban Frenchies is a collection of 5,000 NFTs that come in a playful range of colors and traits. Each Urban Frenchie represents an ultramodern citizen of the web3 world who cares about the planet Earth.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
