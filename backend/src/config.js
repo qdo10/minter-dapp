@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Urban Frenchie";
-const description = "Urban Frenchies is a collection of 5,000 NFTs that come in a playful range of colors and traits. Each Urban Frenchie represents an ultramodern citizen of the web3 world who cares about planet Earth.";
+const description = "Urban Frenchies is a collection of 5,000 NFTs that come in a playful range of colors and traits. Each Urban Frenchie is a witty and faithful companion who is ready to conquer the web3 world with you.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
@@ -57,13 +57,13 @@ const OWNER_ADDRESS = '0xb1556F7Abb3e5D63cf7A8DA1c1cb804A38d51400';
 const TREASURY_ADDRESS = '0xb1556F7Abb3e5D63cf7A8DA1c1cb804A38d51400';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 8; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
-const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
+const TOKENS_PER_MINT = 20; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-04-20T12:00:00+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-04-23T12:00:00+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = "2022-04-02T12:00:00+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = "2022-04-20T12:00:00+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xb1556F7Abb3e5D63cf7A8DA1c1cb804A38d51400"; // Address that will receive the royalty
 const BASE_URI = "ipfs://bafybeiban7m6mgvxmaeruryvhfy6xhias2mynvabiqzm2dchqa4jkzimqe/"; // only update if you want to manually set the base uri
