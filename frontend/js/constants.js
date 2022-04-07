@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Urban Frenchies NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Urban Frenchies is a collection of 5,000 NFTs that come in a playful range of colors and traits. Each Urban Frenchie is a witty and faithful companion who is ready to conquer the web3 world with you. Urban Frenchies and their owners care about the planet Earth, and therefore, part of the proceeds of the project will be donated to #teamseas and #teamtrees.';
+const welcome_p = 'Urban Frenchies is a collection of 5,000 NFTs that come in a playful range of colors and traits. Each Urban Frenchie is a witty and faithful companion who is ready to conquer the web3 world with you.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
